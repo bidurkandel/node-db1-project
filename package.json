@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "id": "0.0.0",
     "knex": "^0.95.4",
     "sqlite3": "^5.0.2"
   },
@@ -25,5 +26,13 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LambdaSchool/node-db1-project.git"
-  }
+  },
+  "description": "## Introduction",
+  "bugs": {
+    "url": "https://github.com/LambdaSchool/node-db1-project/issues"
+  },
+  "homepage": "https://github.com/LambdaSchool/node-db1-project#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
